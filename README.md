@@ -1,6 +1,6 @@
 # JavaScript Time Zone Research
 
-[**DEMO**]()
+[**DEMO**](https://tomashubelbauer.github.io/js-time-zone-research)
 
 When building web applications which are expected to serve users from all around the world and provide them with the most convenience
 when dealing with time, it is important to design the date and time input (collection) and output (display) thoroughly.
