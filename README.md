@@ -187,3 +187,5 @@ Barney needs to account for his relative location to the time zone in his profil
 at 2 PM in Prague even though his calendar indicates 1 PM as per his profile time zone and Tom
 needs to show up at 4 PM in Albuequerque even though his calendar indicates noon as per his Prague
 time zone in his profile.
+
+## To-Do
